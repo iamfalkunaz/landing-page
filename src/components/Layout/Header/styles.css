@@ -1,0 +1,12 @@
+
+.HoverEffect:hover {
+    background-color: #3d3ddc!important;
+    color: #fff !important; 
+    
+  }
+.customButton:hover {
+    color: #fff !important;
+    border-color: #020617 !important;
+    background: #020617 !important; 
+  }
+  
